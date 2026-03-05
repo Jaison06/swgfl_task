@@ -2,7 +2,7 @@
 
 Environment : Php(8.x) , composer
 
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Jaison06/swgfl_task.git)
 
 Open the project folder in Command Prompt and run the command below.
 
